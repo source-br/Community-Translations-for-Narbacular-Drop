@@ -25,7 +25,7 @@ This project aims to translate the textures and texts of **Narbacular Drop** int
 These translations are made by the community. This repository gathers the editable `.psd` textures and translated texts for the game.
 
 ## Available Translations
-- 🇧🇷 Portuguese (Brazil) - ⬇️ [Download translation](https://github.com/source-br/Narbacular-Drop-Traduzido/releases/tag/continuous)
+- 🇧🇷 Portuguese (Brazil) - ⬇️ [Download translation](https://github.com/source-br/Community-Translations-for-Narbacular-Drop/releases/download/continuous/Brazilian.7z)
 
 ## How to Contribute
 
