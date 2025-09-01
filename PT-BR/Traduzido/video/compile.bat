@@ -1,0 +1,9 @@
+magick introscene1.png -sampling-factor 4:2:0 -quality 90 -density 200x200 -units PixelsPerInch introscene1.jpg
+magick introscene2.png -sampling-factor 4:2:0 -quality 90 -density 200x200 -units PixelsPerInch introscene2.jpg
+magick introscene3.png -sampling-factor 4:2:0 -quality 90 -density 200x200 -units PixelsPerInch introscene3.jpg
+magick tutorial1a.png -sampling-factor 4:2:0 -quality 90 -density 200x200 -units PixelsPerInch tutorial1a.jpg
+magick tutorial1b.png -sampling-factor 4:2:0 -quality 90 -density 200x200 -units PixelsPerInch tutorial1b.jpg
+magick tutorial2a.png -sampling-factor 4:2:0 -quality 90 -density 200x200 -units PixelsPerInch tutorial2a.jpg
+magick tutorial2b.png -sampling-factor 4:2:0 -quality 90 -density 200x200 -units PixelsPerInch tutorial2b.jpg
+magick tutorial3a.png -sampling-factor 4:2:0 -quality 90 -density 200x200 -units PixelsPerInch tutorial3a.jpg
+magick tutorial3b.png -sampling-factor 4:2:0 -quality 90 -density 200x200 -units PixelsPerInch tutorial3b.jpg
