@@ -12,12 +12,12 @@
 
 ![Title](../img/logos/title.png)
 
-</div>
-
 [![Diretrizes](https://img.shields.io/badge/Diretrizes-BR-9d0f04.svg)](https://github.com/source-br/.github/blob/main/guidelines/diretrizes.md)
 [![Documentação](https://img.shields.io/badge/Documentação-BR-9d0f04.svg)](../PT-BR/Documentação.md)
 [![Baixar](https://img.shields.io/badge/Baixar%20tradução-BR-9d0f04.svg)](https://github.com/source-br/Community-Translations-for-Narbacular-Drop/releases/download/continuous/Brazilian.7z)
 [![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&logoColor=%23FFFFFF&label=Servidor%20do%20Discord&color=9d0f04)](https://discord.gg/tVNv6SNZZT)
+
+</div>
 
 #
 
