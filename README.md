@@ -12,11 +12,11 @@
 
 ![Title](Docs/img/logos/title.png)
 
-</div>
-
 [![Guidelines](https://img.shields.io/badge/Guidelines-EN-9d0f04.svg)](https://github.com/source-br/.github/blob/main/guidelines/guidelines.md)
 [![Documentation](https://img.shields.io/badge/Documentation-EN-9d0f04.svg)](Docs/Documentation.md)
 [![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&logoColor=%23FFFFFF&label=Discord%20Server&color=9d0f04)](https://discord.gg/tVNv6SNZZT)
+
+</div>
 
 #
 
