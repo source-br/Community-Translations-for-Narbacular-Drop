@@ -31,6 +31,7 @@ Aqui você terá informações do projeto no geral (tradução para outros idiom
 
 ## Traduções disponíveis
 - 🇧🇷 Português (Brasil) - ⬇️ [Baixar tradução](https://github.com/source-br/Community-Translations-for-Narbacular-Drop/releases/download/continuous/Brazilian.7z)
+- 🇷🇺 Russo - ⬇️ [Baixar tradução](https://github.com/source-br/Community-Translations-for-Narbacular-Drop/releases/download/continuous/Russian.7z)
 ## Como colaborarar
 
 * [Documentação](../PT-BR/Documentação.md)

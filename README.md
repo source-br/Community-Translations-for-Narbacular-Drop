@@ -27,6 +27,8 @@ These translations are made by the community. This repository gathers the editab
 ## Available Translations
 - 🇧🇷 Portuguese (Brazil) - ⬇️ [Download translation](https://github.com/source-br/Community-Translations-for-Narbacular-Drop/releases/download/continuous/Brazilian.7z)
 
+- 🇷🇺 Russian - ⬇️ [Download translation](https://github.com/source-br/Community-Translations-for-Narbacular-Drop/releases/download/continuous/Russian.7z)
+
 ## How to Contribute
 
 * [Documentation](Docs/Documentation.md)
