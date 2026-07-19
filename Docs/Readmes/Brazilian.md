@@ -12,10 +12,9 @@
 
 ![Title](../img/logos/title.png)
 
-[![Diretrizes](https://img.shields.io/badge/Diretrizes-BR-9d0f04.svg)](https://github.com/source-br/.github/blob/main/guidelines/diretrizes.md)
+[![Diretrizes](https://img.shields.io/badge/Diretrizes-BR-9d0f04.svg)](https://github.com/davidmacalister/.github/blob/main/guidelines/diretrizes.md)
 [![Documentação](https://img.shields.io/badge/Documentação-BR-9d0f04.svg)](../PT-BR/Documentação.md)
-[![Baixar](https://img.shields.io/badge/Baixar%20tradução-BR-9d0f04.svg)](https://github.com/source-br/Community-Translations-for-Narbacular-Drop/releases/download/continuous/Brazilian.7z)
-[![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&logoColor=%23FFFFFF&label=Servidor%20do%20Discord&color=9d0f04)](https://discord.gg/tVNv6SNZZT)
+[![Baixar](https://img.shields.io/badge/Baixar%20tradução-BR-9d0f04.svg)](https://github.com/davidmacalister/Community-Translations-for-Narbacular-Drop/releases/download/continuous/Brazilian.7z)
 
 </div>
 
@@ -30,8 +29,8 @@ Aqui você terá informações do projeto no geral (tradução para outros idiom
 - [Sobre a tradução em português](../PT-BR/Sobre.md)
 
 ## Traduções disponíveis
-- 🇧🇷 Português (Brasil) - ⬇️ [Baixar tradução](https://github.com/source-br/Community-Translations-for-Narbacular-Drop/releases/download/continuous/Brazilian.7z)
-- 🇷🇺 Russo - ⬇️ [Baixar tradução](https://github.com/source-br/Community-Translations-for-Narbacular-Drop/releases/download/continuous/Russian.7z)
+- 🇧🇷 Português (Brasil) - ⬇️ [Baixar tradução](https://github.com/davidmacalister/Community-Translations-for-Narbacular-Drop/releases/download/continuous/Brazilian.7z)
+- 🇷🇺 Russo - ⬇️ [Baixar tradução](https://github.com/davidmacalister/Community-Translations-for-Narbacular-Drop/releases/download/continuous/Russian.7z)
 ## Como colaborarar
 
 * [Documentação](../PT-BR/Documentação.md)
@@ -40,7 +39,7 @@ Se você possue conhecimento, você pode traduzir o jogo para o seu idioma, ou m
 
 1. **Sugestões de melhorias ou correções**
    * Abra uma *issue* neste repositório.
-   * Ou entre em contato via [Discord](https://discord.gg/tVNv6SNZZT).
+   * Ou entre em contato via [Discord](https://discord.com/users/1052425195987673108).
 
 2. **Traduções para outros idiomas ou melhorias**
    * Leia a documentação e entre em contato com a equipe caso queira mais orientações.
@@ -52,6 +51,6 @@ Se você possue conhecimento, você pode traduzir o jogo para o seu idioma, ou m
 > Este projeto não é afiliado ao instituto de tecnologia DigiPen.
 
 > [!NOTE]
-> Este projeto é gerenciado pela Source BR, então caso tenha alguma dúvida entre contato no nosso [Discord](https://discord.gg/tVNv6SNZZT).
+> Este projeto é gerenciado pelo Menino David, então caso tenha alguma dúvida entre contato no meu [Discord](https://discord.com/users/1052425195987673108).
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a5a5a&height=85&section=footer"/>

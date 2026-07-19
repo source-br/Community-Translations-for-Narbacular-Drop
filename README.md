@@ -12,9 +12,8 @@
 
 ![Title](Docs/img/logos/title.png)
 
-[![Guidelines](https://img.shields.io/badge/Guidelines-EN-9d0f04.svg)](https://github.com/source-br/.github/blob/main/guidelines/guidelines.md)
+[![Guidelines](https://img.shields.io/badge/Guidelines-EN-9d0f04.svg)](https://github.com/davidmacalister/.github/blob/main/guidelines/guidelines.md)
 [![Documentation](https://img.shields.io/badge/Documentation-EN-9d0f04.svg)](Docs/Documentation.md)
-[![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&logoColor=%23FFFFFF&label=Discord%20Server&color=9d0f04)](https://discord.gg/tVNv6SNZZT)
 
 </div>
 
@@ -25,9 +24,9 @@ This project aims to translate the textures and texts of **Narbacular Drop** int
 These translations are made by the community. This repository gathers the editable `.psd` textures and translated texts for the game.
 
 ## Available Translations
-- 🇧🇷 Portuguese (Brazil) - ⬇️ [Download translation](https://github.com/source-br/Community-Translations-for-Narbacular-Drop/releases/download/continuous/Brazilian.7z)
+- 🇧🇷 Portuguese (Brazil) - ⬇️ [Download translation](https://github.com/davidmacalister/Community-Translations-for-Narbacular-Drop/releases/download/continuous/Brazilian.7z)
 
-- 🇷🇺 Russian - ⬇️ [Download translation](https://github.com/source-br/Community-Translations-for-Narbacular-Drop/releases/download/continuous/Russian.7z)
+- 🇷🇺 Russian - ⬇️ [Download translation](https://github.com/davidmacalister/Community-Translations-for-Narbacular-Drop/releases/download/continuous/Russian.7z)
 
 ## How to Contribute
 
@@ -37,7 +36,7 @@ If you have the knowledge, you can translate the game into your language, or imp
 
 1. **Suggestions for improvements or fixes**
    * Open an *issue* in this repository.
-   * Or get in touch via [Discord](https://discord.gg/tVNv6SNZZT).
+   * Or get in touch via [Discord](https://discord.com/users/1052425195987673108).
 
 2. **Translations into other languages or improvements**
    * Read the documentation and contact the team if you want further guidance.
@@ -49,6 +48,6 @@ If you have the knowledge, you can translate the game into your language, or imp
 > This project is not affiliated with DigiPen Institute of Technology.
 
 > [!NOTE]
-> This project is managed by Source BR, so if you have any questions, contact us on our [Discord](https://discord.gg/tVNv6SNZZT).
+> This project is managed by Menino David, so if you have any questions, contact me on [Discord](https://discord.com/users/1052425195987673108).
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a5a5a&height=85&section=footer"/>
